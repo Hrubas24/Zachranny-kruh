@@ -1,0 +1,51 @@
+/* ===========================================
+   CHAT – BACKGROUND OBRÁZEK
+=========================================== */
+.s9t60i1 {
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.96),
+      rgba(255, 255, 255, 0.96)
+    ),
+    url("https://png.pngtree.com/png-clipart/20230821/original/pngtree-tree-icon-vector-isolated-design-black-design-shape-vector-png-image_10576570.png");
+
+  background-repeat: no-repeat, no-repeat;
+  background-position: center 75%, center 75%;
+  background-size: cover, 360px auto;
+  background-attachment: scroll, fixed;
+}
+
+/* ===========================================
+   CHAT – BARVA BUBLIN A TEXTU
+=========================================== */
+
+
+._11kfxpg0 {
+    background-color: #e9eded;
+    color: #1a1e23;
+    font-family: var(--_1bof89na);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+/* ===========================================
+   CHAT – BARVA BUTTONS
+=========================================== */
+
+._1q15b0b1 {
+    border-radius: 8px;
+    color: #1a2814;
+    background-color: #c4e9b7;
+    line-height: 20px;
+    padding: 7px 12px 6px;
+    white-space: normal;
+    word-break: break-word;
+    text-align: left;
+    height: fit-content;
+}
